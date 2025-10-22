@@ -1,26 +1,24 @@
-#include<iostream>
-
+#include <iostream>
 using namespace std;
 
-int n1,n2,n3;
-
-char s1,s2;
-
 int main() {
+    string s;
+    cout << "Enter something: ";
+    cin >> s;
 
-cout<<"Please enter your input!"<<endl;
+    bool isNumeric = true;
 
-cin>>n1,n2,n3;
-cin>>s1,s1;
+    for (int i = 0; i < s.length(); i++) {
+        if (s[i] < '0' || s[i] > '9') {
+            isNumeric = false;
+            break;
+        }
+    }
 
-if(cin>> n1,n2,n3){
-    cout<<"The input is Numaric constant!"<<endl;
-}else{
-    cout<<"The input is not numeric!"<<endl;
-}
+    if (isNumeric)
+        cout << "It is a numeric constant." << endl;
+    else
+        cout << "It is NOT a numeric constant." << endl;
 
-
-
-
-return 0;
+    return 0;
 }
