@@ -1,0 +1,8 @@
+C:\Users\Eashan\Desktop\This pc\AIUB\6th semester\oop2\Project\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Eashan\Desktop\This pc\AIUB\6th semester\oop2\Project\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Eashan\Desktop\This pc\AIUB\6th semester\oop2\Project\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Eashan\Desktop\This pc\AIUB\6th semester\oop2\Project\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\Eashan\Desktop\This pc\AIUB\6th semester\oop2\Project\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Eashan\Desktop\This pc\AIUB\6th semester\oop2\Project\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Eashan\Desktop\This pc\AIUB\6th semester\oop2\Project\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Eashan\Desktop\This pc\AIUB\6th semester\oop2\Project\Lab2\Lab2\obj\Debug\Lab2.exe.config
